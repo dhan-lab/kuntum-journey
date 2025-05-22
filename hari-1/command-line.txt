@@ -1,0 +1,4 @@
+hari ini saya belajar command line.
+
+untuk membuat direktori baru
+`mkdir new_directory`
